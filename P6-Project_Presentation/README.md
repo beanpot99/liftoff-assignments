@@ -7,4 +7,4 @@ We want to you to create a set of presentation slides summarizing your project.
 ## Submission Instructions
 
 ### Presentation
-Upload a .PDF of your presentation here for review.
+Upload a .PDF of your presentation here for review.[Project Presentation.pdf](https://github.com/beanpot99/liftoff-assignments/files/9602726/Project.Presentation.pdf)
